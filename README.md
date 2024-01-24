@@ -9,7 +9,7 @@ Experienced about 3 years working in software development with Java as the prima
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [my blog](http://blog.thinhtpt-dev.site/)
 * ✉️  You can contact me at [thinhtpt.2000@gmail.com](mailto:thinhtpt.2000@gmail.com)
-* 🚀  I'm currently working on [FPT Software](http://fptsoftware.com/)
+* 🚀  I'm currently working on [Katalon](https://katalon.com/)
 * 🧠  I'm learning Cloud AWS, System Design, etc.
 
 ### Skills
