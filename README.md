@@ -6,6 +6,8 @@ Software Engineer
 
 Experienced about 3 years working in software development with Java as the primary programming language. Having about 2 years of Database experience, and practical relational database development. I was working for more than 2 years with Web services. Experience working with Japanese, Korean, and Singapore clients. Experience in working with source version control. Experience in testing using Unit Test Frameworks like JUnit. Easily adapt to work and willing to work under pressure.
 
+I have extensive experience in Web3 technologies, working across blockchain platforms such as Ethereum, Binance Smart Chain, and Polygon. My focus has been on smart contract development using Solidity, along with frameworks like Hardhat and Truffle to streamline the process. I’ve built decentralized applications and DeFi protocols, handling a variety of token standards, including ERC-20, ERC-721 for NFTs, and ERC-1155. I frequently use Web3.js and Ethers.js for integrating smart contracts with frontend applications, and I’m skilled in decentralized storage solutions like IPFS. I’ve also worked with oracles such as Chainlink to bring off-chain data into smart contracts. Security is a priority for me, and I have experience auditing smart contracts to ensure they are robust and secure. I’ve delved into Layer 2 scaling solutions, wallet integrations, DAO governance, and optimizing blockchain data queries with The Graph.
+
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [my blog](http://blog.thinhtpt-dev.site/)
 * ✉️  You can contact me at [thinhtpt.2000@gmail.com](mailto:thinhtpt.2000@gmail.com)
